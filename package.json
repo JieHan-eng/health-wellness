@@ -1,0 +1,12 @@
+{
+  "name": "@raspberry-coffee/health-wellness",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node BioSignalProcessor.js",
+    "analyze": "node SleepStageAnalyzer.js"
+  },
+  "dependencies": {
+    "typescript": "^5.0.0"
+  }
+}

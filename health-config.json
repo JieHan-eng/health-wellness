@@ -1,0 +1,17 @@
+{
+  "health_framework": {
+    "name": "Raspberry Health & Wellness Platform",
+    "version": "2.0",
+    "domains": ["Sleep Science", "Mental Wellbeing", "Physiological Monitoring", "Circadian Biology"]
+  },
+  "biometric_modalities": {
+    "physiological": ["ECG", "EEG", "EMG", "EOG", "GSR", "PPG"],
+    "behavioral": ["activity", "sleep", "social_interaction", "digital_phenotyping"],
+    "subjective": ["mood_reports", "stress_ratings", "symptom_tracking"]
+  },
+  "analytical_approaches": {
+    "signal_processing": ["wavelet_analysis", "spectral_analysis", "nonlinear_dynamics"],
+    "machine_learning": ["deep_learning", "ensemble_methods", "temporal_modeling"],
+    "statistical_methods": ["multilevel_modeling", "time_series_analysis", "bayesian_inference"]
+  }
+}
